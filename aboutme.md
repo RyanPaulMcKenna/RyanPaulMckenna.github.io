@@ -10,9 +10,4 @@ Currently I am pursuing my PhD in Computer Science at The University of York, my
 the intersection between Soft-Robotics and Robotic Deformable Object Manipulation. I want to help make robots
 safer, cheaper and better for working around people. 
 
-
-### My story
-
-
-
-<iframe src="https://europa.eu/europass/eportfolio/api/eprofile/eures/cv/65fb383327b81646aa39a3d7" height="100%" width="100%" style="border:none;" ></iframe>
+Check out my resume on Europass via this [link](https://europa.eu/europass/eportfolio/api/eprofile/eures/cv/65fb383327b81646aa39a3d7)!

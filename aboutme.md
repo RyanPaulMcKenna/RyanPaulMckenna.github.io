@@ -4,6 +4,9 @@ title: About
 subtitle: I'm a Robotics Engineer based in York, United Kingdom.
 ---
 
+<img src="/assets/img/avactar-me.png" alt="drawing" style="width:200px;"/>
+
+
 Since 2016 I have been find simple solutions to complex problems.
 I have worked in Scientific Computing, Machine Learning, Embedded Software Engineering and Robotics.
 Currently I am pursuing my PhD in Computer Science at The University of York, my research is focussed on

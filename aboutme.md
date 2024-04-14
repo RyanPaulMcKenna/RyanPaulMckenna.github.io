@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: I'm a Robotics Engineer based in York, United Kingdom.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Since 2016 I have been find simple solutions to complex problems.
+I have worked in Scientific Computing, Machine Learning, Embedded Software Engineering and Robotics.
+Currently I am pursuing my PhD in Computer Science at The University of York, my research is focussed on
+the intersection between Soft-Robotics and Robotic Deformable Object Manipulation. I want to help make robots
+safer, cheaper and better for working around people. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
+<iframe src="https://europa.eu/europass/eportfolio/api/eprofile/eures/cv/65fb383327b81646aa39a3d7" height="100%" width="100%" style="border:none;" ></iframe>

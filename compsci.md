@@ -2,8 +2,8 @@
 
 layout: page
 
-title: Blog
+title: Computer Science Notes
 
-subtitle: Articles on computer science, software engineering, AI & robotics
+subtitle: Reference material for computer science
 
 ---

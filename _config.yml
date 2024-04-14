@@ -21,16 +21,16 @@ author: Ryan McKenna
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    # - Beautiful Jekyll: "https://beautifuljekyll.com"
-    # - Learn markdown: "https://www.markdowntutorial.com/"
-  Notes: "notes"
-  - Computer-Science: "compsci"
-  - Software-Engineering: "softeng"
-  - Machine-Learning: "mlpage"
-  - Reinforcement-Learning: "rlpage"
-  - Robotics: "robots"
-  - Mathematics: "maths"
+  # Resources:
+  #   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   # - Learn markdown: "https://www.markdowntutorial.com/"
+  Notes:
+    - Computer-Science: "compsci"
+    - Software-Engineering: "softeng"
+    - Machine-Learning: "mlpage"
+    - Reinforcement-Learning: "rlpage"
+    - Robotics: "robots"
+    - Mathematics: "maths"
 
   Projects: "projects"
   Papers: "papers"
@@ -62,9 +62,7 @@ round-avatar: true
 social-network-links:
   email: "ryan.mckenna002@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
   github: RyanPaulMcKenna.github.com
-  twitter: daattali
   patreon: DeanAttali
   youtube: "@daattali"
 #  medium: yourname

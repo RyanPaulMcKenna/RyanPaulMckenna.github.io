@@ -4,7 +4,8 @@ title: About
 subtitle: I'm a Robotics Engineer based in York, United Kingdom.
 ---
 
-<img src="/assets/img/avactar-me.png" alt="drawing" style="width:200px;"/>
+
+<img src="/assets/img/avactar-me.png" alt="drawing" style="display:block;width:200px;border-radius:50%;margin-left:auto;margin-right:auto"/>
 
 
 Since 2016 I have been find simple solutions to complex problems.

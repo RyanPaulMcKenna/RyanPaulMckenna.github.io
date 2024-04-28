@@ -169,6 +169,48 @@ footer-hover-col: "#0085A1"
 #  - "/assets/js/custom-script.js"
 
 #################################
+#         Repositories          #
+#################################
+
+repositories:
+  - onRobot:
+    name: "onRobot"
+    url: "onRobot"
+    image: "/assets/img/onrobot.jpg"
+    summary: "A simple gripper library for UR robot with onRobot gripper, no onrobot compute box needed! Download here: https://pypi.org/project/onRobot/"
+  - 3D-Printable-NEMA-17-Harmonic-Reducer:
+    name: "3D Printable NEMA-17 Harmonic-Reducer"
+    url: "3D-Printable-NEMA-17-Harmonic-Reducer"
+    image: "/assets/img/motordriver.png"
+    summary: "Open-sourced 3D printable Harmonic Reducer for a Nema 17 stepper motor, can easily be adapted to fit other Nema sizes."
+  - Robotic-Arm:
+    name: "6-dof Robotic Arm"
+    url: "Robotic-Arm"
+    image: "/assets/img/crepe.jpg"
+    summary: "6 dof Robot arm build from scratch, mechanical, electrical, hardware & software!"
+  - algorithms_and_data_structures_and_design_patterns:
+    name: "Algorithms, Data-structures & design_patterns"
+    url: "algorithms_and_data_structures_and_design_patterns"
+    image: "/assets/img/datastruct.jpg"
+    summary: "implementations of several algorithms, datastructures and design patterns for educational purposes only."
+  - Cpp-Tutorials-Series:
+    name: "C++ Tutorials Series"
+    url: "Cpp-Tutorial-Series"
+    image: "/assets/img/cpp.jpg"
+    summary: "C++ tutorial series and examples to learn from!"
+  - Python-Tutorial-Series:
+    name: "Python Tutorial Series"
+    url: "Python-Tutorial-Series"
+    image: "/assets/img/python.jpg"
+    summary: "Python tutorial series and coding examles to learn from."
+  - cuda_programming:
+    name: "cuda programming Series"
+    url: "cuda_programming"
+    image: "/assets/img/cuda.jpg"
+    summary: "Cuda programming examples. Hoping to extend to complex parallelizable algorithms."
+
+
+#################################
 # --- Web Analytics Section --- #
 #################################
 
@@ -236,7 +278,7 @@ footer-hover-col: "#0085A1"
 # (2) Install the giscus app in your repository (details at https://giscus.app),
 # (3) Fill in *all* the parameters below 
 # See more details about giscus and each of the following parameters at https://giscus.app
-#giscus:
+# giscus:
 #  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
 #  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  repository-id: # ID of your repository, retrieve this info from https://giscus.app
@@ -302,6 +344,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-github-metadata
+  - jekyll-pdf-embed
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

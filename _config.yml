@@ -30,10 +30,8 @@ navbar-links:
     - Reinforcement-Learning: "rlpage"
     - Robotics: "robots"
     - Mathematics: "maths"
-
   Projects: "projects"
   Papers: "papers"
-  Blog: "blog"
 
 ################
 # --- Logo --- #
@@ -61,7 +59,7 @@ navbar-links:
 social-network-links:
   email: "ryan.mckenna002@gmail.com"
 #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: RyanPaulMcKenna.github.com
+  github: RyanPaulMcKenna
   # youtube: "@daattali"
 #  medium: yourname
 #  reddit: yourname

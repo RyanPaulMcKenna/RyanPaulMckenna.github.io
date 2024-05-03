@@ -2,7 +2,7 @@
 layout: page
 title: About
 subtitle: I'm a Robotics Engineer based in York, United Kingdom.
-pdf_file: "/assets/pdf/europass.pdf"
+pdf_file: "/assets/img/europass.pdf"
 ---
 
 

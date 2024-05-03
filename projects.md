@@ -9,3 +9,5 @@ subtitle: A list of personal projects.
     [{{ repository.name }}]({{repository_url}}) {{ repository.summary }}
     <img src="{{repository.image}}" style="display:block;width:250px;border-radius:5%;"  /> 
 {% endfor %}
+
+

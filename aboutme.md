@@ -16,4 +16,4 @@ safer, cheaper and better for working around people.
 
 Please see my Europass resume below.
 
-<object data="/assets/pdf/europass.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="800" style="display:block;margin-left:auto;margin-right:auto" ></object>
+<object data="/assets/pdf/europass.pdf#toolbar=0&navpanes=0&scrollbar=0" width="200%" height="800" style="display:block;margin-left:auto;margin-right:auto" ></object>

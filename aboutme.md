@@ -2,7 +2,6 @@
 layout: page
 title: About
 subtitle: I'm a Robotics Engineer based in York, United Kingdom.
-pdf_file: "/assets/img/europass.pdf"
 ---
 
 
@@ -17,4 +16,4 @@ safer, cheaper and better for working around people.
 
 Please see my Europass resume below.
 
-{% pdf {{ page.pdf_file }} %}
+<object data="/assets/pdf/europass.pdf#toolbar=0&navpanes=0&scrollbar=0" width="50%" height="800" style="display:block;margin-left:auto;margin-right:auto" ></object> 

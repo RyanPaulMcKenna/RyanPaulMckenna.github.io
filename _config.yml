@@ -184,7 +184,7 @@ repositories:
   - Robotic-Arm:
     name: "6-dof Robotic Arm"
     url: "Robotic-Arm"
-    image: "/assets/img/crepe.jpg"
+    image: "/assets/img/robotarm.png"
     summary: "6 dof Robot arm build from scratch, mechanical, electrical, hardware & software!"
   - algorithms_and_data_structures_and_design_patterns:
     name: "Algorithms, Data-structures & design_patterns"

@@ -8,5 +8,5 @@ tags: [robotics, prototyping]
 author: Ryan McKenna
 ---
 
-Do it, make good notes, write them in an informative manner here, provide links to any open source outputs and good images.
+Coming soon!
 
